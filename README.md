@@ -12,6 +12,8 @@ This project was developed as part of the Microsoft Turkey FY 24 Summer Internsh
 
 - **MSFT.csv**: The dataset of Microsoft stock prices.
 - **msft.ipynb**: Jupyter notebook with the data exploration, model building, evaluation processes and training model.
+- **optuna.sqlite**: Hyperparameter tuning database. Contains hyperparameter results of specific scenarios.
+- **.png files**: The results on the test dataset with specific scenarios.
 - **README.md**: Project documentation.
 
 ## Installation
