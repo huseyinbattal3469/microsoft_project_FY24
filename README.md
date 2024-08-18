@@ -42,7 +42,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 This project was developed as part of the Microsoft Turkey FY24 Summer Internship program by Huseyin Battal. Special thanks to Barbaros Gunay for his support and guidance.
-
----
-
-Feel free to customize this further to suit your project!
